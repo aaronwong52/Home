@@ -1,0 +1,1 @@
+Basic start for full stack app
